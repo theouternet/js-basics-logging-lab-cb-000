@@ -1,4 +1,4 @@
-let driver = bob;
+let driver = 'bob';
 
 function describe {
   
